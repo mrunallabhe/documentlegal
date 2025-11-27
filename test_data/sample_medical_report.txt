@@ -1,0 +1,40 @@
+MEDICAL EXAMINATION REPORT
+
+Hospital: City General Hospital
+Case Number: CR-2024-001234
+Date of Examination: November 15, 2024
+Time: 10:45 PM
+
+Patient Details:
+Name: Rajesh Kumar
+Age: 35 years
+Address: 456 Park Street, Bangalore
+
+History:
+Patient was brought to the emergency department at 10:30 PM on November 15, 2024. According to the patient, he was involved in an altercation at approximately 8:30 PM near ABC Supermarket on MG Road.
+
+Examination Findings:
+
+1. Head and Neck: No visible injuries
+2. Upper Limbs: 
+   - Deep laceration on the left forearm, approximately 5 cm in length
+   - Compound fracture of the left wrist
+   - Multiple abrasions on both hands
+3. Lower Limbs: Minor bruises on both knees
+4. Torso: No significant injuries observed
+
+Injuries Assessment:
+- The laceration on the left forearm is deep and required 12 stitches
+- The compound fracture is serious and will require surgical intervention
+- Estimated time of injury: Between 8:30 PM and 9:00 PM on November 15, 2024
+
+Treatment Provided:
+- Wound cleaning and suturing
+- X-ray examination of left wrist
+- Pain medication administered
+- Referred to orthopedic surgeon for fracture treatment
+
+Doctor's Signature: Dr. Priya Menon, MD
+Date: November 15, 2024
+Time: 11:15 PM
+

@@ -1,0 +1,36 @@
+fastapi>=0.115.2,<1.0
+uvicorn[standard]==0.30.1
+python-multipart>=0.0.18
+starlette>=0.40.0,<1.0
+pydantic==2.9.2
+pydantic-settings==2.6.0
+python-magic==0.4.27
+python-magic-bin>=0.4.14; sys_platform == "win32"
+pillow==10.4.0
+opencv-python-headless==4.10.0.84
+pdfplumber==0.11.2
+pytesseract==0.3.13
+spacy==3.7.5
+networkx==3.2.1
+numpy==1.26.4
+requests==2.32.3
+
+# AI/ML Models
+torch>=2.0.0
+transformers>=4.35.0
+sentence-transformers>=2.2.0
+ultralytics>=8.0.0
+openai>=1.0.0
+accelerate>=0.24.0
+
+# Additional ML utilities
+scikit-learn>=1.3.0
+scipy>=1.11.0
+pdf2image>=1.16.0
+python-dateutil>=2.8.0
+
+# Note: For pdf2image, you also need poppler-utils installed on your system:
+# Windows: Download from https://github.com/oschwartz10612/poppler-windows/releases
+# Linux: sudo apt-get install poppler-utils
+# macOS: brew install poppler
+
